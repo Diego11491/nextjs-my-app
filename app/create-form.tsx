@@ -64,7 +64,7 @@ export default function CreateForm() {
                 name="image"
                 className="input input-bordered w-full max-w-xs"
                 required
-                defaultValue="/images/shirt1-jpg"
+                defaultValue="/images/shirt1.jpg"
               />
             </div>
             <div className="form-control w-full max-w-xs py-4">
